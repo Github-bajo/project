@@ -4,3 +4,5 @@ Blaise
 Bertrand
 Bajo
 Chris
+Paula
+Masoma
